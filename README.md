@@ -1,7 +1,7 @@
 ```
 #Ajith Samuel.
 ```
-[`{Google+}`](https://plus.google.com/u/0/+AjithLeonardRedd/) - [`{Twitter}`](https://twitter.com/ajithmettu) - [`{GitHub}`](https://github.com/ajithsamuel) - [`{Facebook}`](https://www.facebook.com/ajithmetu) - [`{Koding}`](https://koding.com/ajithsamuel) - `public [AT] missaglialfio [DOT] pw`
+[`{Google+}`](https://plus.google.com/u/0/+AjithLeonardRedd/) - [`{Twitter}`](https://twitter.com/ajithmettu) - [`{GitHub}`](https://github.com/ajithsamuel) - [`{Facebook}`](https://www.facebook.com/ajithmetu) - [`{Koding}`](https://koding.com/ajithsamuel) -
 ```
 {
 "teamName": "TeamGideons",
