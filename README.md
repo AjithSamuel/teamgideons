@@ -3,12 +3,12 @@
 
 ```
 ##My project
-My project'll be based on the first and the fifth themes.
+My project will be based on the first and the fifth themes.
 I'll make a bus informaton and thorough city guide for foreigners.
 and I also will be doing Telugu to English Translator for tourists and local people to interact easily.
 
 ##Skills
-I do have experience with those programming languages:
+I do have experience with this programming languages:
 * Java
 * Java Script
 * C language
