@@ -3,17 +3,7 @@
 ```
 [`{Google+}`](https://plus.google.com/u/0/+AjithLeonardRedd/) - [`{Twitter}`](https://twitter.com/ajithmettu) - [`{GitHub}`](https://github.com/ajithsamuel) - [`{Facebook}`](https://www.facebook.com/ajithmetu) - [`{Koding}`](https://koding.com/ajithsamuel) -
 ```
-{
-"teamName": "TeamGideons",
-"members": [
-{
-"name": "Ajith Samuel",
-"twitter": "ajithmettu",
-"koding": "ajithsamuel",
-"location": "Hyderabad, IN"
-}
-]
-}
+
 
 ```
 ##My project
