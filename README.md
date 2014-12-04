@@ -7,7 +7,7 @@
 ```
 ```
 ###Ajith Samuel
-[`{Google+}`](https://plus.google.com/u/0/+AjithLeonardRedd/) - [`{Twitter}`](https://twitter.com/ajithmettu) - [`{GitHub}`](https://github.com/ajithsamuel) - [`{Facebook}`](https://www.facebook.com/ajithmetu) - [`{Koding}`](https://koding.com/ajithsamuel) -
+[`{Google+}`](https://plus.google.com/u/0/+AjithLeonardRedd/) - [`{Twitter}`](https://twitter.com/ajithmettu) - [`{GitHub}`](https://github.com/ajithsamuel) - [`{Facebook}`](https://www.facebook.com/ajithmettu) - [`{Koding}`](https://koding.com/ajithsamuel) -
 ###Bryan Chan
 [`{google+}1](https://plus.google.com/115951082682526751272/) - [`{Facebook}`](https://www.facebook.com/shinn.kokhoong/)-
 ###Sailendra Mangranti
