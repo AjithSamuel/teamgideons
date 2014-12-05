@@ -13,7 +13,7 @@ Welcome to TeamGideons
 #Team Members
 | Ajith Samuel | Bryan Chan | Sailendra Mangranti | 
 |--- |--- |--- |--- |---
-| ![Ajith Samuel](https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/164658_460530620670941_807289354_n.jpg?oh=5ce0e3bfabce69d2cf020a42b84a6b6f&oe=55009B33&__gda__=1427249887_afbde36d0ebf4b3222f5ae7eeca64ff4) | ![Bryan Chan](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/1376368_10152765060886291_2557915644119095424_n.jpg?oh=88db91d2a6576d94ab05e2a8ff4daf1d&oe=55103C7E&__gda__=1426283284_812dfbebb94372589e2cdac4e912550c) | ![Sailendra Mangranti](https://lh5.googleusercontent.com/-6ts91U4HPPA/AAAAAAAAAAI/AAAAAAAAAAA/pOoQ4aUuEw4/s120-c/photo.jpg) |
+| ![Ajith Samuel](https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/164658_460530620670941_807289354_n.jpg?oh=5ce0e3bfabce69d2cf020a42b84a6b6f&oe=55009B33&__gda__=1427249887_afbde36d0ebf4b3222f5ae7eeca64ff4) | ![Bryan Chan](https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/1098354_10151824452221291_917932334_n.jpg?oh=3e1f20ff8bcf2d82326725eef4583081&oe=54FF02D6&__gda__=1426318734_102c56c123c6940f780b64035acc7bd1) | ![Sailendra Mangranti](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSR_grwbEmgyJ_WiNjsIj6gOgBnO6_myGwX95pTsYJG6feahwbY) |
  
 ```
 ```
